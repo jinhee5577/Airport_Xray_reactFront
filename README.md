@@ -1,49 +1,42 @@
-# [Argon Dashboard React](https://demos.creative-tim.com/argon-dashboard-react?ref=adr-github-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Argon%20Dashboard%20is%20a%20Free%20Bootstrap%204,%20React%20and%20Reactstrap%20Dashboard%20made%20using%20create-react-app%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//demos.creative-tim.com/argon-dashboard-react%20%23react%20%23reactstrap%20%23createreactapp%20%23argon%20%23argondesign%20%23reactdashboard%20%23argonreact%20%23reactdesign%20%23bootstrap%20%23material%20%23design%20%23uikit%20%23freebie%20%20via%20%40CreativeTim)
+# 💡딥러닝을 이용한 공항 X-ray위해물품 자동 탐지시스템의 React Front-end repository 입니다.
+<br>
 
-![version](https://img.shields.io/badge/version-1.2.4-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/argon-dashboard-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/argon-dashboard-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/argon-dashboard-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/argon-dashboard-react/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+## 📝 메뉴구성
+<img width="650" alt="진희팀 유스2" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/82584287/3159a63c-b914-4df3-af85-f22542dca35b">
 
-![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/argon-dashboard-react.gif)
 
-Start your development with a Dashboard for [Bootstrap 4](https://getbootstrap.com/?ref=creativetim), [React](https://reactjs.org/?ref=creativetim) and [Reactstrap](https://reactstrap.github.io/?ref=creativetim), made with [create-react-app](https://facebook.github.io/create-react-app/?ref=creativetim). It is open source, free and it features many components that can help you create amazing websites.
+----
 
-**Fully Coded Components**
+## 💻 YOLORAY Main페이지 입니다.
+<img width="850" alt="mainps" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/82584287/aa4a8003-2cba-4313-be78-c889bf035e91">
+<img width="850" alt="mainps" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/82584287/74a8676b-a98a-41ea-8273-14a160c63554">
 
-Argon Dashboard React is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files.
-You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
-Every element has multiple states for colors, styles, hover, focus, that you can easily access and use.
+## 💻 YOLORAY 실시간분석, 분석다시보기/단건분석 페이지 입니다.
+<img width="410" alt="실시간분석 페이지" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/82584287/402d77d0-af75-4c7c-a62f-dec0a7523e74">
+<img width="410" alt="단건분석 페이지" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/82584287/be46e3f1-1eb3-4c48-b4ae-bced15a7f5fb">
+<img width="600" alt="단건분석 페이지" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/82584287/80314cbc-6f15-4a15-b86f-3718ec9ac02c">
 
-**Complex Documentation**
 
-Each element is well presented in a very complex documentation. You can read more about the idea behind this [dashboard here](https://demos.creative-tim.com/argon-dashboard-react/#/documentation/overview?ref=creativetim). You can check the [components here](https://demos.creative-tim.com/argon-dashboard-react/#/documentation/alerts?ref=creativetim) and the [foundation here](https://demos.creative-tim.com/argon-dashboard/#/documentation/colors?ref=creativetim).
+## 💻 YOLORAY 관리자화면 - 회원관리, 공지사항 작성/모델 업데이트 페이지 입니다.
+<img width="410" alt="회원관리 페이지" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/82584287/f2c8a01b-f1c4-45a6-9c49-6c6db0ae0396">
+<img width="410" alt="회원관리 페이지" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/82584287/a06acd88-c8d9-4c83-83d0-72be561254e9">
+<img width="600" alt="공지사항 페이지" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/82584287/965f5bb7-d03e-4c4b-a8c6-5c74afa30a22">
+<img width="410" alt="모델 업데이트 페이지" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/82584287/d1372440-fd20-4a64-add0-fc71aa8ed426">
+<img width="410" alt="모델 업데이트 페이지" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/82584287/5686c9e1-3391-4e93-b07b-f5a2dcbf2fc6">
 
-**Example Pages**
+----
+<br>
 
-If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project.
+### 👨🏻‍💻 팀원  
+- **손채영 (팀장)**
+- **오진희 (부팀장)**
+- **임찬혁**
+- **오종원**
 
-## Table of Contents
+## 🔖팀원소개 및 상세역활.
+<img width="796" alt="팀원소개" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/82584287/3afffe0a-56ae-4a2a-9420-dd8c126621d1">
 
-- [Versions](#versions)
-- [Demo](#demo)
-- [Quick Start](#quick-start)
-- [Documentation](#documentation)
-- [File Structure](#file-structure)
-- [Browser Support](#browser-support)
-- [Resources](#resources)
-- [Reporting Issues](#reporting-issues)
-- [Licensing](#licensing)
-- [Useful Links](#useful-links)
-
-## Versions
-
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard?ref=adr-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/react-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-react?ref=adr-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/angular-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-angular)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/nodejs-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-nodejs?ref=adr-github-readme)[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/laravel_logo.png" width="60" height="60" style="background:white"/>](https://www.creative-tim.com/product/argon-dashboard-laravel?ref=adr-github-readme)[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/sketch-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-react?ref=adr-github-readme)
-
-| HTML                                                                                                                                                                                           | React                                                                                                                                                                                                             | Angular                                                                                                                                                                                                                   |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Argon Dashboard HTML](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard/argon-dashboard.jpg?raw=true)](https://www.creative-tim.com/product/argon-dashboard) | [![Argon Dashboard React](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard-react/argon-dashboard-react.jpg?raw=true)](https://www.creative-tim.com/product/argon-dashboard-react) | [![Argon Dashboard Angular](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard-angular/argon-dashboard-angular.jpg?raw=true)](https://www.creative-tim.com/product/argon-dashboard-angular) |
-
-| NodeJS                                                                                                                                                                                                                | Laravel                                                                                                                                                                                                                   |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Argon Dashboard NodeJS](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard-nodejs/argon-dashboard-nodejs.jpg?raw=true)](https://www.creative-tim.com/product/argon-dashboard-nodejs) | [![Argon Dashboard Laravel](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard-laravel/argon-dashboard-laravel.jpg?raw=true)](https://www.creative-tim.com/product/argon-dashboard-laravel) |
+----
 
 ## Demo
 
